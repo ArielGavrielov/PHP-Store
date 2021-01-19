@@ -1,0 +1,30 @@
+@font-face {
+    font-family: BestFont;
+    src: url("VCR_OSD_MONO.woff2");
+}
+
+html *{
+   font-size: 1em !important;
+   color: #000 !important;
+   font-family: BestFont !important;
+}
+
+.helloname {
+    color:blue !important;
+}
+
+.cart:link {
+	text-decoration: none;
+  }
+  
+.cart:visited {
+	text-decoration: none;
+  }
+  
+.cart:hover {
+	text-decoration: none;
+  }
+  
+.cart:active {
+	text-decoration: none;
+}
